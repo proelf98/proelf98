@@ -37,8 +37,12 @@ My greatest power is that I have broad skillset, that originates from having not
   />
 </picture>
 
+<div align="center">
+![Proelf98's GitHub stats](https://github-readme-stats.vercel.app/api?username=proelf98&show_icons=true&theme=dracula&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_radius=10)
+</div>
 
-![Dein Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=proelf98&show_icons=true&theme=radical&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proelf98&theme=dracula&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10)](https://github.com/proelf98)
+
 
 ## 🔭 Technology Stack
 ![](https://img.shields.io/badge/Python-80%25-2bbc8a?style=flat&logo=python&logoColor=white)
