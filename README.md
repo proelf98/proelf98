@@ -37,7 +37,7 @@ My greatest power is that I have broad skillset, that originates from having not
   />
 </picture>
 
-<div style="display: flex; justify-content: right;">
+<div align=center>
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=proelf98&show_icons=true&theme=dracula&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_radius=10"
