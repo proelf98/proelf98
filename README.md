@@ -41,7 +41,13 @@ My greatest power is that I have broad skillset, that originates from having not
 ![Dein Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=proelf98&show_icons=true&theme=radical&count_private=true)
 
 ## 🔭 Technology Stack
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![C#](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a) ![Git](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a) ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Python-80%25-2bbc8a?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-70%25-2bbc8a?style=flat&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/C%23-90%25-2bbc8a?style=flat&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/Git-85%25-2bbc8a?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Linux-75%25-2bbc8a?style=flat&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-80%25-2bbc8a?style=flat&logo=typescript&logoColor=white)
+
 
 ## 📫 Contakt
 - LinkedIn: [Noah Keller](https://www.linkedin.com/in/noah-keller-5baa2a1b0/)
