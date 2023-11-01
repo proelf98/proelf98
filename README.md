@@ -37,11 +37,31 @@ My greatest power is that I have broad skillset, that originates from having not
   />
 </picture>
 
-<div align="center">
-![Proelf98's GitHub stats](https://github-readme-stats.vercel.app/api?username=proelf98&show_icons=true&theme=dracula&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_radius=10)
+<div style="display: flex; justify-content: right;">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=proelf98&show_icons=true&theme=dracula&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_radius=10"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=proelf98&show_icons=true&theme=dracula&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_radius=10"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=proelf98&show_icons=true&theme=dracula&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_radius=10" />
+  </picture>
+  
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=proelf98&theme=dracula&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=proelf98&theme=dracula&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proelf98&theme=dracula&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10" />
+  </picture>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proelf98&theme=dracula&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10)](https://github.com/proelf98)
 
 
 ## 🔭 Technology Stack
