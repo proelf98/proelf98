@@ -52,14 +52,14 @@ My greatest power is that I have broad skillset, that originates from having not
   
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=proelf98&theme=dracula&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=proelf98&theme=dracula&count_private=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=proelf98&theme=dracula&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=proelf98&theme=dracula&count_private=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proelf98&theme=dracula&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proelf98&theme=dracula&count_private=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10" />
   </picture>
 </div>
 
