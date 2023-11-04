@@ -37,6 +37,7 @@ My greatest power is that I have broad skillset, that originates from having not
   />
 </picture>
 
+<!--
 <div align=center>
   <picture>
     <source
@@ -62,7 +63,7 @@ My greatest power is that I have broad skillset, that originates from having not
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proelf98&theme=dracula&count_private=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10" />
   </picture>
 </div>
-
+-->
 
 ## 🔭 Technology Stack
 ![](https://img.shields.io/badge/Python-80%25-2bbc8a?style=flat&logo=python&logoColor=white)
